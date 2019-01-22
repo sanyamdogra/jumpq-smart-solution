@@ -7,6 +7,9 @@ This app was made by me for Amity University's Hackathon.
 This project was made on flutter ie Google's latest SDK. Single code base will work for android and ios both.
 
 ## Sample Screenshots of the App
+<div align="center">
+    <img src="/screenshots/loginpage.png" width="400px"</img> 
+</div>
 
 ## If you like this app please give it a Star!
 
