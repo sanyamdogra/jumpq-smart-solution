@@ -11,6 +11,12 @@ This project was made on flutter ie Google's latest SDK. Single code base will w
   <img src="screenshots/loginPage.png" width="200" />
   <img src="screenshots/landingPage.png" width="200" /> 
   <img src="screenshots/drawer.png" width="200" />
+  <img src="screenshots/scan.png" width="200" />
+  <img src="screenshots/paymentScreen.png" width="200" />
+</p>
+<p float="left">
+  <img src="screenshots/invoice.png" width="200" />
+  <img src="screenshots/paymentScreen.png" width="200" /> 
 </p>
 
 ## If you like this app please give it a Star!
