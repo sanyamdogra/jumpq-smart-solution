@@ -8,7 +8,10 @@ This project was made on flutter ie Google's latest SDK. Single code base will w
 
 ## Sample Screenshots of the App
 <div align="center">
-    <img src="/screenshots/loginpage.png" width="400px"</img> 
+    <img src="/screenshots/loginPage.png" width="400px"</img> 
+</div>
+<div align="center">
+    <img src="/screenshots/landingPage.png" width="400px"</img> 
 </div>
 
 ## If you like this app please give it a Star!
