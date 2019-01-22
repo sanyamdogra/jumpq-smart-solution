@@ -19,7 +19,7 @@ This project was made on flutter ie Google's latest SDK. Single code base will w
   <img src="screenshots/objectDetection.png" width="200" /> 
 </p>
 
-## If you like this app please give it a Star!
+## Show some ❤️ and star the project!
 
 ## Flutter resources
 
