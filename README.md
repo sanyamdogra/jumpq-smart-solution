@@ -7,13 +7,11 @@ This app was made by me for Amity University's Hackathon.
 This project was made on flutter ie Google's latest SDK. Single code base will work for android and ios both.
 
 ## Sample Screenshots of the App
-<div align="center">
-    <img src="/screenshots/loginPage.png" width="400px"</img> 
-</div>
-<div align="center">
-    <img src="/screenshots/landingPage.png" width="400px"</img> 
-</div>
-
+<p float="left">
+  <img src="screenshots/loginPage.png" width="100" />
+  <img src="screenshots/LandingPage.png" width="100" /> 
+  <img src="screenshots/drawer.png" width="100" />
+</p>
 ## If you like this app please give it a Star!
 
 ## Flutter resources
