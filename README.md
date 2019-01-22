@@ -2,10 +2,6 @@
 
 This app was made by me for Amity University's Hackathon. It uses Firebase and ml kit for object detection and scanning.
 
-## Made on Flutter
-
-This project was made on flutter ie Google's latest SDK. Single code base will work for android and ios both.
-
 ## Sample Screenshots of the App
 <p float="left">
   <img src="screenshots/loginPage.png" width="200" />
@@ -18,6 +14,9 @@ This project was made on flutter ie Google's latest SDK. Single code base will w
   <img src="screenshots/invoice.png" width="200" />
   <img src="screenshots/objectDetection.png" width="200" /> 
 </p>
+## Made on Flutter
+
+This project was made on flutter ie Google's latest SDK. Single code base will work for android and ios both.
 
 ## Show some ❤️ and star the project!
 
