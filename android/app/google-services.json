@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "35775123198",
+    "firebase_url": "https://amityhack-87138.firebaseio.com",
+    "project_id": "amityhack-87138",
+    "storage_bucket": "amityhack-87138.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35775123198:android:3c26b535a23eaab9",
+        "android_client_info": {
+          "package_name": "com.example.amityhack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35775123198-35a6hg3lnn1gi99mj27voomd6b0b1loa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-uoGFpGMvHbyXvvfEVI0lHNQhAfV5GEM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
