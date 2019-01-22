@@ -8,10 +8,11 @@ This project was made on flutter ie Google's latest SDK. Single code base will w
 
 ## Sample Screenshots of the App
 <p float="left">
-  <img src="screenshots/loginPage.png" width="100" />
-  <img src="screenshots/LandingPage.png" width="100" /> 
-  <img src="screenshots/drawer.png" width="100" />
+  <img src="screenshots/loginPage.png" width="200" />
+  <img src="screenshots/landingPage.png" width="200" /> 
+  <img src="screenshots/drawer.png" width="200" />
 </p>
+
 ## If you like this app please give it a Star!
 
 ## Flutter resources
