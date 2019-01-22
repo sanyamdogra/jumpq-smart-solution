@@ -14,6 +14,7 @@ This app was made by me for Amity University's Hackathon. It uses Firebase and m
   <img src="screenshots/invoice.png" width="200" />
   <img src="screenshots/objectDetection.png" width="200" /> 
 </p>
+
 ## Made on Flutter
 
 This project was made on flutter ie Google's latest SDK. Single code base will work for android and ios both.
