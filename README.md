@@ -1,0 +1,1 @@
+# JumpQ_smartSolution
