@@ -1,6 +1,6 @@
 # JumpQ-SmartSolution
 
-This app was made by me for Amity University's Hackathon. It uses Firebase and ml kit for object detection and scanning.
+This app was made for Amity University's Hackathon. It uses Firebase and ml kit for object detection and scanning.
 
 ## Sample Screenshots of the App
 <p float="left">
