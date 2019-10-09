@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'dart:io';
 import 'package:firebase_ml_vision/firebase_ml_vision.dart';
@@ -11,16 +13,16 @@ class ObjectDetection extends StatefulWidget {
 class _ObjectDetectionState extends State<ObjectDetection> {
    File _image;
 
-  List<String> labelTexts = new List();
+   List<String> labelTexts = new List();
   Future<void> detectLabels() async {
     final FirebaseVisionImage visionImage =
         FirebaseVisionImage.fromFile(_image);
-    final LabelDetector labelDetector = FirebaseVision.instance
-        .labelDetector(LabelDetectorOptions(confidenceThreshold: 0.80));
-    final List<Label> labels = await labelDetector.detectInImage(visionImage);
+    final ImageLabeler labeler = FirebaseVision.instance
+        .imageLabeler(ImageLabelerOptions(confidenceThreshold: 0.80));
+    final List<ImageLabel> labels = await labeler.processImage(visionImage);
 
-    for (Label label in labels) {
-      final String text = label.label;
+    for (ImageLabel label in labels) {
+      final String text = label.text;
       final String entityId = label.entityId;
       final double confidence = label.confidence;
 
