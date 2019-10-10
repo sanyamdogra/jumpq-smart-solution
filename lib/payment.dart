@@ -10,7 +10,7 @@ class Payment extends StatefulWidget {
 class _PaymentState extends State<Payment> {
    @override
    void initState() {
-      // TODO: implement initState
+    
       super.initState();
       Timer(Duration(seconds: 3), (){ Navigator.of(context).pushReplacementNamed('/paymentgreen');});
     }
@@ -179,7 +179,7 @@ class _PaymentState extends State<Payment> {
 Widget itemDetails(BuildContext context, String title, String weight,
     int quantity, double price) {
   var deviceSize = MediaQuery.of(context).size;
-  var calc_price = quantity * price;
+  var calcPrice = quantity * price;
   return Padding(
     padding: EdgeInsets.only(left: 10, right: 10),
     child: Container(
@@ -218,7 +218,7 @@ Widget itemDetails(BuildContext context, String title, String weight,
                       width: 70,
                       child: Center(
                           child: Text(
-                        '₹$calc_price',
+                        '₹$calcPrice',
                         style: TextStyle(
                             fontWeight: FontWeight.bold, fontSize: 20),
                       ))),

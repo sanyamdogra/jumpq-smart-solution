@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:barcode_scan/barcode_scan.dart';
 import 'package:flutter/services.dart';
@@ -36,7 +38,7 @@ class _StatsPageState extends State<StatsPage> {
 
   @override
   Widget build(BuildContext context) {
-     var deviceSize = MediaQuery.of(context).size;
+    //  var deviceSize = MediaQuery.of(context).size;
     return Scaffold(
       
       

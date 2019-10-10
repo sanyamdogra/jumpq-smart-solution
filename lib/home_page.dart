@@ -274,29 +274,29 @@ Widget itemCard(
   String km,
 ) {
   var deviceSize = MediaQuery.of(context).size;
-  var storeList=[
-    {
-      "title":"24 Seven",
-      "imagePath":'images/24seven.png',
-      "isfavourite":true,
-      "km":'2.1Km away', 
-    }, {
-      "title":"Big Bazar",
-      "imagePath":'images/BigBazar.jpg',
-      "isfavourite":false,
-      "km":'3.4Km away', 
-    }, {
-      "title":"Planet Needs",
-      "imagePath":'images/planetneeds.png',
-      "isfavourite":true,
-      "km":'4Km away', 
-    }, {
-      "title":"Sodhi Super Mart",
-      "imagePath":'images/ssm_logo.jpg',
-      "isfavourite": false,
-      "km":'7Km away', 
-    },  
-  ];
+  // var storeList=[
+  //   {
+  //     "title":"24 Seven",
+  //     "imagePath":'images/24seven.png',
+  //     "isfavourite":true,
+  //     "km":'2.1Km away', 
+  //   }, {
+  //     "title":"Big Bazar",
+  //     "imagePath":'images/BigBazar.jpg',
+  //     "isfavourite":false,
+  //     "km":'3.4Km away', 
+  //   }, {
+  //     "title":"Planet Needs",
+  //     "imagePath":'images/planetneeds.png',
+  //     "isfavourite":true,
+  //     "km":'4Km away', 
+  //   }, {
+  //     "title":"Sodhi Super Mart",
+  //     "imagePath":'images/ssm_logo.jpg',
+  //     "isfavourite": false,
+  //     "km":'7Km away', 
+  //   },  
+  // ];
   return Padding(
     padding: EdgeInsets.only(left: 15, right: 15, top: 15),
     child: Container(
